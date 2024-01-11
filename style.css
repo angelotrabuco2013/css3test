@@ -376,31 +376,31 @@ details li[class]::after {
 }
 
 .almost-pass::after {
-	content: ':)';
+	content: 'Partially supported';
 }
 
 .buggy::after {
-	content: ':(';
+	content: 'Buggy';
 }
 
 .epic-fail::after {
-	content: '›:(';
+	content: 'Not supported';
 }
 
 .fail::after {
-	content: ':′(';
+	content: 'Partially not supported';
 }
 
 .pass::after {
-	content: ':D';
+	content: 'Supported';
 }
 
 .slightly-buggy::after {
-	content: ':|';
+	content: 'Slightly buggy';
 }
 
 .very-buggy::after {
-	content: ':o';
+	content: 'Very buggy';
 }
 
 /* End emoticons */
